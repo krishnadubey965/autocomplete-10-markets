@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="620" viewBox="0 0 920 620" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="920" height="620" fill="#0d1117"/>
+<text x="40.0" y="44.0" font-size="18" fill="#f0efec" font-weight="700" text-anchor="start">Whether keywords differ by country is decided by the topic, not the country</text>
+<text x="40.0" y="68.0" font-size="13" fill="#c3c2b7" font-weight="400" text-anchor="start">43,005 autocomplete suggestions, 3 seeds x 10 English-speaking markets x 4 engines</text>
+<text x="40.0" y="98.0" font-size="12" fill="#9a988d" font-weight="600" text-anchor="start">Share of each topic's keywords, by how many of the 10 markets suggested them</text>
+<text x="182.0" y="137.0" font-size="14" fill="#f0efec" font-weight="600" text-anchor="end">credit card</text>
+<rect x="196.0" y="112" width="91.4" height="40" fill="#199e70"/>
+<text x="241.7" y="137.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">16%</text>
+<rect x="287.4" y="112" width="143.5" height="40" fill="#3987e5"/>
+<text x="359.2" y="137.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">26%</text>
+<rect x="430.9" y="112" width="325.1" height="40" fill="#d95926"/>
+<text x="593.5" y="137.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">58%</text>
+<text x="770.0" y="137.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">47% median</text>
+<text x="770.0" y="151.0" font-size="11" fill="#9a988d" font-weight="400" text-anchor="start">overlap per pair</text>
+<text x="182.0" y="199.0" font-size="14" fill="#f0efec" font-weight="600" text-anchor="end">running shoes</text>
+<rect x="196.0" y="174" width="180.3" height="40" fill="#199e70"/>
+<text x="286.2" y="199.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">32%</text>
+<rect x="376.3" y="174" width="155.9" height="40" fill="#3987e5"/>
+<text x="454.3" y="199.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">28%</text>
+<rect x="532.2" y="174" width="223.8" height="40" fill="#d95926"/>
+<text x="644.1" y="199.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">40%</text>
+<text x="770.0" y="199.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">64% median</text>
+<text x="770.0" y="213.0" font-size="11" fill="#9a988d" font-weight="400" text-anchor="start">overlap per pair</text>
+<text x="182.0" y="261.0" font-size="14" fill="#f0efec" font-weight="600" text-anchor="end">web hosting</text>
+<rect x="196.0" y="236" width="431.9" height="40" fill="#199e70"/>
+<text x="411.9" y="261.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">77%</text>
+<rect x="627.9" y="236" width="64.1" height="40" fill="#3987e5"/>
+<text x="659.9" y="261.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">11%</text>
+<rect x="691.9" y="236" width="64.1" height="40" fill="#d95926"/>
+<text x="724.0" y="261.0" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">11%</text>
+<text x="770.0" y="261.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">94% median</text>
+<text x="770.0" y="275.0" font-size="11" fill="#9a988d" font-weight="400" text-anchor="start">overlap per pair</text>
+<rect x="196" y="294" width="12" height="12" rx="2" fill="#199e70"/>
+<text x="214.0" y="304.0" font-size="12" fill="#c3c2b7" font-weight="400" text-anchor="start">in all 10 markets</text>
+<rect x="366" y="294" width="12" height="12" rx="2" fill="#3987e5"/>
+<text x="384.0" y="304.0" font-size="12" fill="#c3c2b7" font-weight="400" text-anchor="start">in 2-9 markets</text>
+<rect x="516" y="294" width="12" height="12" rx="2" fill="#d95926"/>
+<text x="534.0" y="304.0" font-size="12" fill="#c3c2b7" font-weight="400" text-anchor="start">in only 1 market</text>
+<line x1="40" y1="332" x2="880" y2="332" stroke="#272c33" stroke-width="1"/>
+<text x="40.0" y="360.0" font-size="15" fill="#f0efec" font-weight="700" text-anchor="start">What each engine contributes, and how much of it nothing else suggests</text>
+<text x="40.0" y="382.0" font-size="12" fill="#c3c2b7" font-weight="400" text-anchor="start">Of 5,557 distinct keywords found. A Google-only tool would miss 42%.</text>
+<text x="182.0" y="426.0" font-size="13" fill="#f0efec" font-weight="600" text-anchor="end">Google</text>
+<rect x="196" y="408" width="209.2" height="26" fill="#d95926"/>
+<rect x="405.2" y="408" width="114.3" height="26" fill="#3987e5"/>
+<text x="300.6" y="426.0" font-size="12" fill="#ffffff" font-weight="700" text-anchor="middle">37%</text>
+<text x="531.5" y="426.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">57.8% of all keywords</text>
+<text x="182.0" y="462.0" font-size="13" fill="#f0efec" font-weight="600" text-anchor="end">YouTube</text>
+<rect x="196" y="444" width="162.4" height="26" fill="#d95926"/>
+<rect x="358.4" y="444" width="75.0" height="26" fill="#3987e5"/>
+<text x="277.2" y="462.0" font-size="12" fill="#ffffff" font-weight="700" text-anchor="middle">29%</text>
+<text x="445.4" y="462.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">42.4% of all keywords</text>
+<text x="182.0" y="498.0" font-size="13" fill="#f0efec" font-weight="600" text-anchor="end">Bing</text>
+<rect x="196" y="480" width="20.4" height="26" fill="#d95926"/>
+<rect x="216.4" y="480" width="106.9" height="26" fill="#3987e5"/>
+<text x="335.3" y="498.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">22.7% of all keywords</text>
+<text x="182.0" y="534.0" font-size="13" fill="#f0efec" font-weight="600" text-anchor="end">DuckDuckGo</text>
+<rect x="196" y="516" width="11.9" height="26" fill="#d95926"/>
+<rect x="207.9" y="516" width="102.8" height="26" fill="#3987e5"/>
+<text x="322.7" y="534.0" font-size="12" fill="#c3c2b7" font-weight="600" text-anchor="start">20.5% of all keywords</text>
+<rect x="196" y="546" width="12" height="12" rx="2" fill="#d95926"/>
+<text x="214.0" y="556.0" font-size="12" fill="#c3c2b7" font-weight="400" text-anchor="start">found by this engine alone</text>
+<rect x="426" y="546" width="12" height="12" rx="2" fill="#3987e5"/>
+<text x="444.0" y="556.0" font-size="12" fill="#c3c2b7" font-weight="400" text-anchor="start">also found elsewhere</text>
+<text x="40.0" y="602.0" font-size="11" fill="#9a988d" font-weight="400" text-anchor="start">Collected with the Long Tail Keyword Questions actor on Apify - apify.com/bhole_krishna/keyword-demand-scraper</text>
+</svg>

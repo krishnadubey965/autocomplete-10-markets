@@ -1,0 +1,36 @@
+{
+ "title": "What 10 Markets Autocomplete: 43,005 Suggestions",
+ "id": "krishnadubeyyy/autocomplete-keywords-10-english-markets",
+ "subtitle": "3 topics x 10 English-speaking markets x 4 engines: how much overlap?",
+ "licenses": [
+  {
+   "name": "CC BY 4.0"
+  }
+ ],
+ "keywords": [
+  "internet",
+  "business",
+  "marketing",
+  "linguistics",
+  "text mining"
+ ],
+ "resources": [
+  {
+   "path": "suggestions.csv",
+   "description": "Every suggestion as collected: 43,005 rows of seed, market, engine, query, rank in the suggestion list, keyword, rule-based intent and word count."
+  },
+  {
+   "path": "keyword_market_matrix.csv",
+   "description": "One row per distinct keyword (5,557): which of the 10 markets and which of the 4 engines suggested it, plus its best rank anywhere."
+  },
+  {
+   "path": "market_overlap_pairs.csv",
+   "description": "All 135 market pairs (45 pairs x 3 seeds) with shared and union keyword counts, symmetric Jaccard overlap and a directional share."
+  },
+  {
+   "path": "engine_contribution.csv",
+   "description": "Per seed and pooled: each engine's reach, how much of its output nothing else suggested, and what a Google-only tool would miss."
+  }
+ ],
+ "userSpecifiedSources": "Google, YouTube, Bing and DuckDuckGo public suggestion endpoints, collected with the Long Tail Keyword Questions actor on Apify: https://apify.com/bhole_krishna/keyword-demand-scraper"
+}

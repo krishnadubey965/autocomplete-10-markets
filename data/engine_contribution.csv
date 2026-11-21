@@ -1,0 +1,21 @@
+scope,engine,keywords_found,keywords_in_scope,share_of_all_pct,exclusive_to_this_engine,exclusive_share_of_own_pct
+credit card,google,1777,3099,57.3,1166,65.6
+credit card,youtube,1355,3099,43.7,957,70.6
+credit card,bing,648,3099,20.9,152,23.5
+credit card,duckduckgo,526,3099,17.0,56,10.6
+credit card,google-only tool would miss,1322,3099,42.7,,
+running shoes,google,988,1584,62.4,611,61.8
+running shoes,youtube,725,1584,45.8,459,63.3
+running shoes,bing,317,1584,20.0,24,7.6
+running shoes,duckduckgo,307,1584,19.4,27,8.8
+running shoes,google-only tool would miss,596,1584,37.6,,
+web hosting,google,445,874,50.9,299,67.2
+web hosting,youtube,276,874,31.6,196,71.0
+web hosting,bing,298,874,34.1,26,8.7
+web hosting,duckduckgo,305,874,34.9,35,11.5
+web hosting,google-only tool would miss,429,874,49.1,,
+ALL SEEDS,google,3210,5557,57.8,2076,64.7
+ALL SEEDS,youtube,2356,5557,42.4,1612,68.4
+ALL SEEDS,bing,1263,5557,22.7,202,16.0
+ALL SEEDS,duckduckgo,1138,5557,20.5,118,10.4
+ALL SEEDS,google-only tool would miss,2347,5557,42.2,,
