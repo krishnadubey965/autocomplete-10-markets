@@ -180,6 +180,11 @@ itself, the seed plus each letter a–z, and twelve question words in front. A d
 would find more keywords. The comparison is fair because every market got exactly the same 39
 queries.
 
+**Country targeting is a hint to the engine, not a guarantee.** The `gl`, `mkt` and `kl`
+parameters tell each engine which market to answer for; they do not fence the results. The clearest
+example in this data is `running shoes under 4000 rupees`, which came back under **NG**. Treat the
+`market` column as "the market this was requested for", not "the market this phrase belongs to".
+
 **`intent` is rule-based, not inferred.** It comes from the actor's own classifier: question words
 mean `question`, price words mean `transactional`, comparison words mean `commercial`, and so on.
 It is a transparent rule you can read, not a model you have to trust.

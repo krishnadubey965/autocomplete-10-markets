@@ -108,6 +108,8 @@ Full column documentation and a chart script: [github.com/krishnadubey965/autoco
 
 **Not an exhaustive keyword list.** A deeper expansion would find more keywords. The comparison is fair because every market got the same queries.
 
+**Country targeting is a hint to the engine, not a guarantee.** The market parameters tell each engine which market to answer for; they do not fence the results. The clearest example here is `running shoes under 4000 rupees`, returned under NG. Read the `market` column as "the market this was requested for", not "the market this phrase belongs to".
+
 **`intent` is rule-based, not inferred.** Question words mean `question`, price words mean `transactional`, comparison words mean `commercial`. It is a transparent rule, not a model.
 
 **Suggestion endpoints are unpersonalised but not deterministic.** They can answer slightly differently from different datacentres, so a repeat run will not be byte-identical.
