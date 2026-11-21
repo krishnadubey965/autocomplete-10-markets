@@ -5,3 +5,4 @@ kaggle/upload/
 kaggle/*.csv
 kaggle/kernel/
 kaggle/upload/
+kaggle/meta/
