@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 kaggle/upload/
 kaggle/*.csv
+kaggle/kernel/
+kaggle/upload/
